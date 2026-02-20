@@ -1,0 +1,52 @@
+# =========================
+# Build directories
+# =========================
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# =========================
+# Compiled objects
+# =========================
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dll
+
+# =========================
+# Executables
+# =========================
+cpu-simulator
+
+# =========================
+# Debug / profiling
+# =========================
+*.log
+*.gdb
+*.gcno
+*.gcda
+*.gcov
+
+# =========================
+# Editor / IDE files
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =====================================================
+# Personal notes
+# =====================================================
+schedule.txt
